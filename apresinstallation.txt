@@ -1,0 +1,11 @@
+Zplayer est un lecteur de musique.
+Ceci n'est que la première version.
+Veuillez être indulgents.
+
+Merci à toi d'avoir installer Zplayer
+Une mise à jour arrive bientôt
+
+Version 1.0
+
+© 2017 Zplayer
+https://github.com/iamfrcsmgo/zplayer

@@ -1,0 +1,45 @@
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\bin\Debug\ZPlayer.exe
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\bin\Debug\ZPlayer.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\bin\Debug\ZPlayer.xml
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.vbproj.ResolveComReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.ZPlayer.resources
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.exe
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.xml
+C:\Users\user\AppData\Local\Temporary Projects\ZPlayer\obj\x86\Debug\ZPlayer.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.vbproj.ResolveComReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.exe
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.xml
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\ZPlayer.exe
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\ZPlayer.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\ZPlayer.xml
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.ZPlayer.resources
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\ZPlayer.exe.manifest
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\ZPlayer.application
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.TrustInfo.xml
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.exe.manifest
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\ZPlayer.application
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\ZPlayer\ZPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\ZPlayer.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\ZPlayer.exe
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\ZPlayer.xml
+C:\Users\user\Desktop\ZPlayer\ZPlayervb\ZPlayer\obj\x86\Debug\ZPlayer.pdb
